@@ -1,0 +1,1 @@
+This is a image directory. When one image is uploaded on this folder then delete this folder.
